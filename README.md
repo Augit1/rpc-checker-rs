@@ -45,6 +45,7 @@ rpc-checker-rs/
 
 ### 🔨 Build and run
 
+```bash
 cargo run --release -- https://rpc.gnosischain.com
 
 ✅ Example Output
