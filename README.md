@@ -29,11 +29,13 @@ Useful for checking node sync, testing third-party endpoints, or integrating in 
 
 ## 📁 Project Structure
 
+```
 rpc-checker-rs/
 ├── src/
 │   └── main.rs         # Rust source
 ├── Cargo.toml          # Dependencies & metadata
 ├── README.md           # You are here
+```
 
 ---
 
@@ -47,6 +49,7 @@ rpc-checker-rs/
 
 ```bash
 cargo run --release -- https://rpc.gnosischain.com
+```
 
 ✅ Example Output
 
