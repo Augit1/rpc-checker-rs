@@ -1,4 +1,4 @@
-[![CI](https://github.com/YOUR_USERNAME/rpc-checker-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/rpc-checker-rs/actions)
+[![CI](https://github.com/Augit1/rpc-checker-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/rpc-checker-rs/actions)
 
 # 📦 rpc-checker-rs
 
