@@ -1,10 +1,9 @@
-[![CI](https://github.com/Augit1/rpc-checker-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/rpc-checker-rs/actions)
-
 # 📦 rpc-checker-rs
 
 [![Rust Edition](https://img.shields.io/badge/Rust-2021-orange?logo=rust)](https://www.rust-lang.org/)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]()
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
+[![CI](https://github.com/Augit1/rpc-checker-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/myusername/rpc-checker-rs/actions)
 
 A minimal CLI tool written in Rust to check the health and sync status of any Ethereum-compatible JSON-RPC endpoint (Sepolia, Gnosis, Ethereum Mainnet, etc.).
 
