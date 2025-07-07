@@ -1,3 +1,5 @@
+[![CI](https://github.com/YOUR_USERNAME/rpc-checker-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/rpc-checker-rs/actions)
+
 # 📦 rpc-checker-rs
 
 [![Rust Edition](https://img.shields.io/badge/Rust-2021-orange?logo=rust)](https://www.rust-lang.org/)
